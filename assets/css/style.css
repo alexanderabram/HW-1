@@ -33,9 +33,9 @@ body {
 }
 
 .link:hover {
-    background-color: darkblue
+    background-color: darkblue;
+    text-decoration: underline;
 }
-
 
 .header div ul {
     list-style-type: none;
