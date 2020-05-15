@@ -4,7 +4,7 @@ Refactor assignment involving the clean up of both .html and .css codes largely 
 
 ## Installation
 
-Use the link to view the website post refactor.
+Use the linke to review updated website post refactor.
 
 ### Usage
 
